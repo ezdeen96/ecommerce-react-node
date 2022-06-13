@@ -130,19 +130,8 @@ An ecommerce store built with MERN stack and Paypal payments API.
     in Procfile file --> web: node backend/server.js
 
     ```
-    
-## Author
+ Project Link: [https://rn-store.herokuapp.com/](https://rn-store.herokuapp.com/)
+  
+  
 
-  Theelipan Prabakar - [www.theelipan.com](https://www.theelipan.com)
-
-  Project Link: [https://rn-store.herokuapp.com/](https://rn-store.herokuapp.com/)
   
-  
-## License
-  
-  Released under the MIT License.
-  
-  
-"# react-node-ecommerce" 
-"# react-node-ecommerce" 
-# react-node-ecommerce
